@@ -1,0 +1,23 @@
+.admin_line{
+    background-color: black;
+    height: 50px;
+}
+.authorize{
+    color: white;
+    padding:15px;
+}
+.authorize a{
+    color: white;
+    text-decoration: underline;
+}
+.authorize a:hover{
+    text-decoration: none;
+}
+li {
+    list-style-type: none;
+    padding: 10px;
+}
+.desc{
+    vertical-align: top;
+    padding:20px;
+}
